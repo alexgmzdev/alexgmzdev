@@ -9,11 +9,11 @@ Me he atrevido a explorar el mundillo del desarrollo
 ### Tecnologías que estoy aprendiendo:
 💻-JAVA
 
+💻-Kotlin and Android Studio
+
 💻-MySql
 
-💻-HTML
-
-💻-CSS
+💻-HTML, CSS and JavaScript
 
 <!--
 **alexgmzdev/alexgmzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
