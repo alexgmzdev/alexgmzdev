@@ -1,6 +1,6 @@
-### Hola, soy Alejandro Giménez. 👋
+<h1 align="center">Hola, soy <a href="https://alexgmzdev.github.io/alejandrogimenezdev.github.io/">Alejandro Giménez.</a>👋</h1>
 
-### 📚 Estudiante de Desarrollo de Apps Multiplataforma 📚 
+![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/f75e674a-8c36-45ff-9f7b-749627350810)
 
 Actualmente estoy formandome académicamente estudiando programación. Siempre me he dedicado a Imagen y Sonido y creo contenido en diferentes plataformas.🫣 📷
 
