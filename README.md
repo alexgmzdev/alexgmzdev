@@ -2,9 +2,8 @@
 
 ![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/f75e674a-8c36-45ff-9f7b-749627350810)
 
-<a href="www.youtube.com/UCgERo9E2xfUdTLJ5R_wmKbw/?sub_confirmation=1" rel="nofollow">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCgERo9E2xfUdTLJ5R_wmKbw"> 
-</a>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgERo9E2xfUdTLJ5R_wmKbw?link=!%5BYouTube%20Channel%20Subscribers%5D(https%3A%2F%2Fimg.shields.io%2Fyoutube%2Fchannel%2Fsubscribers%2FUCgERo9E2xfUdTLJ5R_wmKbw))
+
 
 <h2>About me: ✌️</h2>
 
