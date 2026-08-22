@@ -8,10 +8,9 @@
 <h2>About me: ✌️</h2>
 
 - 🖥️ I’m currently working on Android and Java Projects
-- 📚 I´m studying Multiplatform Apps Development at <a target="_blank" href="https://www.ilerna.es"> Ilerna Online </a>
+- 📚 I´m studying Multiplatform Apps Development at <a target="_blank" href="https://fp-oficial.medac.es"> Davante MEDAC </a>
 - 📍 Based on Madrid
 - 🫶 My favorite field of work is mobile application development.
-- 📹 In my free time I record videos and took some photos
 
 
 <h2>Connect with me on</h2>
@@ -69,9 +68,6 @@
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center">
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
   <a href="https://developer.android.com/studio" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Android%20Studio-ey?style=for-the-badge&logo=androidstudio&logoColor=white&color=%233DDC84">
   </a>
